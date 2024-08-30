@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    api: 'http://localhost:3000/api',
+    api: 'https://nest-auth-backend-with-signal-production.up.railway.app/api',
 };
